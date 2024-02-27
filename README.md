@@ -2,7 +2,7 @@
 
 ## Documentation
 
-For POCes I use my own NextJS project template. Some files my be redudant
+This project serves as a starter kit for implementing a code scanner using the Zxing library and mobile camera.
 
 ### For testing / trying out
 
@@ -26,3 +26,5 @@ Latviski: [X/Aigars Sukurs](https://twitter.com/AigarsSukurs)<br>
 English: [X/130db](https://twitter.com/130db)
 
 or support with a [Tip](https://revolut.me/130dbs) if you found it useful for your project
+
+For POCes I use my own NextJS project template. Some files my be redudant
