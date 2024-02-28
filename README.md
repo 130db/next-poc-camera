@@ -20,7 +20,7 @@ This project uses [@zxing/browser](https://github.com/zxing-js/browser), [@zxing
 
 ### Support
 
-Followm me on X (Twitter)
+Follow me on X (Twitter)
 
 Latviski: [X/Aigars Sukurs](https://twitter.com/AigarsSukurs)<br>
 English: [X/130db](https://twitter.com/130db)
